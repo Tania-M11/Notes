@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Barra inferior: Ajustes -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M22.83,10.09 L22.83,13.91 L19.27,14.22 L18.71,15.57 L21.01,18.31 L18.31,21.01 L15.57,18.71 L14.22,19.27 L13.91,22.83 L10.09,22.83 L9.78,19.27 L8.43,18.71 L5.69,21.01 L2.99,18.31 L5.29,15.57 L4.73,14.22 L1.17,13.91 L1.17,10.09 L4.73,9.78 L5.29,8.43 L2.99,5.69 L5.69,2.99 L8.43,5.29 L9.78,4.73 L10.09,1.17 L13.91,1.17 L14.22,4.73 L15.57,5.29 L18.31,2.99 L21.01,5.69 L18.71,8.43 L19.27,9.78 Z M8.60,12.00 A3.40,3.40 0 1,0 15.40,12.00 A3.40,3.40 0 1,0 8.60,12.00 Z"
+        android:fillColor="#FF4A9A52"
+        android:strokeColor="#FF1E3B20"
+        android:strokeWidth="1.1"
+        android:fillType="evenOdd" />
+</vector>
