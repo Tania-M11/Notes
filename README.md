@@ -2,6 +2,9 @@
 
 Android persistence – encryption
 
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/dd5cc65d-e059-4f5e-b714-81299cf6588e" />
+
 Aplicación Android **"Notas confidenciales"**, desarrollada para la actividad
 **Punto 4: Seguridad en el Almacenamiento y Cifrado**.
 
@@ -112,3 +115,14 @@ zona externa propia de la app.
 porque es el mecanismo que la actividad pide de forma explícita. La alternativa
 vigente es cifrar manualmente con el Android Keystore más AES-GCM, o usar
 SQLCipher para una base de datos.
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd255d07-04dc-4a4b-87af-3a63e4995945" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8dc6222c-8fec-463f-b838-d26d9100d31d" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/105f4234-1fdc-4ae5-9084-d9005308b4ca" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/79c3d50b-1370-4589-9527-5b69d6aa0d09" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/45c80390-26af-44f5-a70f-df0d91843d04" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/820208fc-bcf8-4a6c-82c6-b3ca45b1ebd9" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6cf3ca0-4b22-469e-8d00-a1f9d80cf995" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1d662cf1-82bd-4fed-ad31-99c928158fcf" />
+
+
+
